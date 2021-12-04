@@ -1,0 +1,49 @@
+body {
+  background-color: black;
+  color: white;
+}
+
+.card {
+  background-color: #35343d;
+  width: 300px;
+  margin: auto;
+  text-align: center;
+}
+
+.perso {
+  color: red;
+  background-color: #35343d;
+}
+
+.infoVamp {
+  margin: auto;
+  width: 300px;
+  text-align: center;
+}
+
+.lien {
+  text-decoration: none;
+  color: white;
+}
+
+.circle {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  z-index: 1;
+  margin-top: 5px;
+  margin-right: 5px;
+}
+
+.titre {
+  text-align: center;
+}
+
+.menu {
+  position: fixed;
+  right: 15px;
+  top: 15px;
+}
